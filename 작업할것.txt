@@ -1,0 +1,18 @@
+[진행목록]
+2. formborder? 그거 찾아서 버튼 사이즈별로 했을 때도 잘 계산되게 변경하는 것
+4. icon 캡쳐 비트맵 사이즈 - 불가
+5. 커서만 올리고 Delete Key 누르면 삭제시키기
+
+
+[완료목록]
+1. 레지스트리에 등록해서 컴퓨터 시작하면 바로 뜨게 하는 거 - 바로가기 만드는 것으로 대체함
+3. 설정창이 런처 프로그램 가운데 뜨도록 하기 - 완료
+5. 버튼 드래드 앤 드롭하여 위치 이동
+
+
+[참고자료]
+title bar
+https://ivision.wordpress.com/2007/01/05/title-bar-height-and-form-border-width-of-net-form/
+
+윈도우 자동실행
+http://stackoverflow.com/questions/4897655/create-shortcut-on-desktop-c-sharp#4909475
